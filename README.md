@@ -1,7 +1,9 @@
 <h3 align="center>
            Welcome to Daria's Profile
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=006D77&size=24&center=true&vCenter=true&lines=Grade+11+Student;Always+Learning;Self-Taught+Java)](https://git.io/typing-svg)
 </h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=006D77&size=24&center=true&vCenter=true&lines=Grade+11+Student;Always+Learning;Self-Taught+Java">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
