@@ -1,10 +1,12 @@
 <h3 align="center">
+           <img src="https://uploads.twitchalerts.com/000/120/837/513/NaturalHugeKittiwake-size_restricted.gif" width="28">
            Welcome to Daria's Profile
+           <img src="https://uploads.twitchalerts.com/000/120/837/513/NaturalHugeKittiwake-size_restricted.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=006D77&size=24&center=true&vCenter=true&lines=Grade+11+Student;Always+Learning;Self-Taught+Java"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=006D77&size=24&center=true&vCenter=true&lines=Grade+11+High+School+Student;Always+Learning;Self-Taught+Java"></a>
 </p>
            
 
