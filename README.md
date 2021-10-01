@@ -1,7 +1,7 @@
 <h3 align="center">
-           <img src="https://uploads.twitchalerts.com/000/120/837/513/NaturalHugeKittiwake-size_restricted.gif" width="36">
+           <img src="https://uploads.twitchalerts.com/000/120/837/513/NaturalHugeKittiwake-size_restricted.gif" width="50">
            Welcome to Daria's Profile
-           <img src="https://uploads.twitchalerts.com/000/120/837/513/NaturalHugeKittiwake-size_restricted.gif" width="36">
+           <img src="https://uploads.twitchalerts.com/000/120/837/513/NaturalHugeKittiwake-size_restricted.gif" width="50">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
