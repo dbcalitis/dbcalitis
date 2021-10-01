@@ -1,8 +1,7 @@
-### Hi there 👋
-
-
-**dbcalitis/dbcalitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h3 align="center>
+           Welcome to Daria's Profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=006D77&size=24&center=true&vCenter=true&lines=Grade+11+Student;Always+Learning;Self-Taught+Java)](https://git.io/typing-svg)
+</h3>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
