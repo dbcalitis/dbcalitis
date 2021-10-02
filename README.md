@@ -11,6 +11,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/dbcalitis/dbcalitis/main/mina.gif" align="right">
 <h3 align="center">~ About me ~</h3>
+
 - 🔭 I’m currently working on learning programming languages and improving my skills.
 - 🌱 I’m currently learning Python, C++, Java, Javascript and HTML/CSS.
 - 💬 Ask me about K-Pop and K-Dramas
