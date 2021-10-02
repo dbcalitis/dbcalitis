@@ -11,7 +11,7 @@
 </p>
 <h2 align="center" font-family="Georgia">About me</h2>
 <br>
-<img src="https://raw.githubusercontent.com/dbcalitis/dbcalitis/main/mina.gif" align="right" width="400" height="296" margin-left="25px">
+<img src="https://raw.githubusercontent.com/dbcalitis/dbcalitis/main/mina.gif" align="right" width="400" height="296" margin-left="75px">
 
 - 🔭 I’m currently working on learning programming languages and improving my skills.
 - 🌱 I’m currently learning Python, C++, Java, Javascript and HTML/CSS.
