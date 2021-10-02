@@ -1,3 +1,4 @@
+<!-- Color Palette https://imagekit.io/blog/how-to-resize-image-in-html/-->
 <h1 align="center" font-size="40px">
            <img src="https://uploads.twitchalerts.com/000/120/837/513/NaturalHugeKittiwake-size_restricted.gif" width="50">
            Welcome to Daria's Profile
