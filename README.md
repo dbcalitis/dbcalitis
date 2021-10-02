@@ -1,5 +1,5 @@
 
-<h1 style="align: center; font-family: Georgia;">
+<h1 align="center" font-family="Georgia">
            <img src="https://uploads.twitchalerts.com/000/120/837/513/NaturalHugeKittiwake-size_restricted.gif" width="50">
            Welcome to Daria's Profile
            <img src="https://uploads.twitchalerts.com/000/120/837/513/NaturalHugeKittiwake-size_restricted.gif" width="50">
@@ -10,8 +10,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=006D77&size=24&center=true&vCenter=true&lines=Grade+11+High+School+Student;Always+Learning;Self-Taught+Java"></a>
 </p>
 <br>
-<img src="https://raw.githubusercontent.com/dbcalitis/dbcalitis/main/mina.gif" align="right">
-<h2 style="align: center; font-family: Georgia;">~ About me ~</h2>
+<img src="https://raw.githubusercontent.com/dbcalitis/dbcalitis/main/mina.gif" align="right" width="300" height="222">
+<h2 align="center" font-family="Georgia">~ About me ~</h2>
 
 - 🔭 I’m currently working on learning programming languages and improving my skills.
 - 🌱 I’m currently learning Python, C++, Java, Javascript and HTML/CSS.
