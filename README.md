@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=006D77&size=24&center=true&vCenter=true&lines=Grade+12+High+School+Student;Always+Learning;Self-Taught+Java"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=006D77&size=24&center=true&vCenter=true&lines=1st+Year+University+Student;Always+Learning;"></a>
 </p>
 
 <p align=center>
